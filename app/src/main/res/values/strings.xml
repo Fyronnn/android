@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Logggout</string>
+    <string name="girisisim">Kullanıcı İsminizi Giriniz</string>
+    <string name="girisprola">Parolanızı Giriniz</string>
+    <string name="kaydetisim">İsminizi Oluşturunuz</string>
+    <string name="kaydetparola">Parolanızı Oluşturunuz</string>
+
+
+</resources>
